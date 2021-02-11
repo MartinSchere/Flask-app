@@ -10,3 +10,10 @@ h3 {
 header {
   padding: 2.5rem;
 }
+
+footer {
+  font-size: 12px;
+  padding: 2.5rem;
+  background-color: lightgrey;
+  color: darkblue;
+}
