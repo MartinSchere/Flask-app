@@ -11,6 +11,12 @@ header {
   padding: 2.5rem;
 }
 
-#body{
+#body {
   color: pink;
+}
+footer {
+  font-size: 12px;
+  padding: 2.5rem;
+  background-color: lightgrey;
+  color: darkblue;
 }
